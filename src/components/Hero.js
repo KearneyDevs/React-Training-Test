@@ -1,6 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import BgImg from '../assets/Hero.png';
+import { MdKeyboardArrowRight } from 'react-icons/md';
 
 const Section = styled.section`
     background-image: url(${BgImg});
@@ -61,11 +62,12 @@ const Hero = () => {
                     </Title>
                         <Desc>
                         Open and fund a brokerage account with $100 or more and you will 
-                        have a chance of claiming stocks like <span>GOOG, FB, SBUX </span> 
+                        have a chance of claiming stocks like <span>GOOG, FB, SBUX </span>{' '} 
                         and more!                    
                         </Desc>
                         <Button href='https://invest.webull.com/auth/simple/signup?hl=en&os=web_pc&source=invite_gw&redirect_uri=https%3A%2F%2Fwww.webull.com%2Fcenter' target='_blank'>
                             <span>Claim your free stocks now</span>
+                            <MdKeyboardArrowRight/>
                         </Button>
                     
                 </Left>
