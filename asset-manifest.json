@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/React-Training-Test/static/js/main.33a238f2.chunk.js",
+    "main.js.map": "/React-Training-Test/static/js/main.33a238f2.chunk.js.map",
+    "runtime-main.js": "/React-Training-Test/static/js/runtime-main.21240971.js",
+    "runtime-main.js.map": "/React-Training-Test/static/js/runtime-main.21240971.js.map",
+    "static/js/2.733a3327.chunk.js": "/React-Training-Test/static/js/2.733a3327.chunk.js",
+    "static/js/2.733a3327.chunk.js.map": "/React-Training-Test/static/js/2.733a3327.chunk.js.map",
+    "static/js/3.0bdca3bf.chunk.js": "/React-Training-Test/static/js/3.0bdca3bf.chunk.js",
+    "static/js/3.0bdca3bf.chunk.js.map": "/React-Training-Test/static/js/3.0bdca3bf.chunk.js.map",
+    "index.html": "/React-Training-Test/index.html",
+    "static/js/2.733a3327.chunk.js.LICENSE.txt": "/React-Training-Test/static/js/2.733a3327.chunk.js.LICENSE.txt",
+    "static/media/Hero.cdc89ded.png": "/React-Training-Test/static/media/Hero.cdc89ded.png",
+    "static/media/logo.0587e0cf.svg": "/React-Training-Test/static/media/logo.0587e0cf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21240971.js",
+    "static/js/2.733a3327.chunk.js",
+    "static/js/main.33a238f2.chunk.js"
+  ]
+}
